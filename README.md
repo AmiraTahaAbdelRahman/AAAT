@@ -8,4 +8,4 @@ Our software captures packets and monitor a view of the packets’ details,     
 User controls when to start capturing and when to stop by pressing the start or stop button. When user selects a specific packet more details and information appear, on the left side of the table, like checksum , flags, version ….etc
 Also a hexa view of the packets is provided for the selected packet. 
 User can also save the captured packets when pressing quit a window appears to ask the user if he/she wants to save the captured packets.
-note: cmplete code is found in final file
+note: complete code is found in final file
